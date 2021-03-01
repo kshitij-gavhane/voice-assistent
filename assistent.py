@@ -1,3 +1,5 @@
+#python personal assistent 
+#created using simple if else statemants
 import pyttsx3 
 import speech_recognition as sr 
 import datetime
